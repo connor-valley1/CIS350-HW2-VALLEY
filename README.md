@@ -9,4 +9,4 @@ I have experience working on a larger scale web application for a construction c
 
 I also have experience programming in Java, Python, and C. I took classes on Java and C here at GVSU and I have done a lot of personal programming in Python as well as some classes from High School which used Python.
 
-[My Favorite Meme] (https://imgflip.com/s/meme/Cute-Cat.jpg)
+[My Favorite Meme](https://imgflip.com/s/meme/Cute-Cat.jpg)
